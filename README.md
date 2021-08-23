@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bright
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python, cybersecurity, linux
+- 👀 I’m interested in cybersecurity and security for everyone
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me brightonorian3@gmail.com 
 
