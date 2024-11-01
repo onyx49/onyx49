@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Bright
-- 👀 I’m interested in cybersecurity and security for everyone
+- 👀 I’m interested in cybersecurity and techcnology
 - 🌱 I’m currently learning ethical hacking, cyberdefense, information science, server administration etc.
 - 💞️ I’m looking to collaborate with cybersecurity experts around the world
 - 📫 How to reach me brightonorian3@gmail.com 
