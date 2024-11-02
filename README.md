@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with cybersecurity experts around the world
 - 📫 How to reach me https://www.linkedin.com/in/bright-amankwah/
 
-###Something small about me 
+### Something small about me 
 
 Information studies graduate, University of Ghana, having keen interest in CyberSecurity, programming languages, and technology in general. I am a little fluent in python, javascript, php etc. and I have good technical and analytical skills. I have tried many ctfs like hackthissite, overthewireshark, embedded security. I learnt how to deploy pods using Kubernetes, learnt splunk: basics, Qradar:basics, Windows Sysmon/ Event viewer, SIEM and SOAR, Windows - Process Injection IR (Splunk) during my studies at RangeForceCommunity edition. I have also gone through course materials and practice labs of Portswigger Web Security Academy, which has really helped me in my bug bounty journey. 
 
